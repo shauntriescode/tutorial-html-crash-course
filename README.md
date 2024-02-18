@@ -1,2 +1,5 @@
 # html-crash-course
-My HTML Crash Course Project
+
+Followed a tutorial to create the following:
+
+A HTML Crash Course Project
